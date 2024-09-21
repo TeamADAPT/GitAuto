@@ -1,0 +1,5 @@
+2024-09-20 03:24:15,456 - __main__ - ERROR - Not a Git repository. Please run 'init' command first.
+2024-09-20 03:24:15,519 - __main__ - ERROR - Not a Git repository. Please run 'init' command first.
+2024-09-20 03:24:21,620 - __main__ - INFO - Initializing new Git repository...
+2024-09-20 03:24:21,625 - __main__ - INFO - Git repository initialized successfully.
+2024-09-20 03:24:21,681 - __main__ - INFO - Committing changes with message: Add test file
